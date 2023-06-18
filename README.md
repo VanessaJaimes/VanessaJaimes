@@ -11,7 +11,7 @@
 
 
 
-[![GitHub iampawan](https://img.shields.io/github/followers/VanessaJaimes?label=follow&style=social)]
+[GitHub iampawan](https://img.shields.io/github/followers/VanessaJaimes?label=follow&style=social)
 
 
 
