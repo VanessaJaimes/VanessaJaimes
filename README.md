@@ -33,12 +33,12 @@
 
 ### GitHub Stats
 
-| <img align="right" src="https://github-readme-stats.vercel.app/api?username=VanessaJaimes&show_icons=true&theme=dark&line_height=25" alt="Vanessa github stats"/> | <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Vanessa&theme=dark" width=""> |
+| <img align="right" src="https://github-readme-stats.vercel.app/api?username=VanessaJaimes&show_icons=true&theme=dark&line_height=25" alt="Vanessa github stats"/> | <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VanessaJaimes&theme=dark" width=""> |
 | --------- | --------- |
 
 ***
 
- | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaJaimes&langs_count=10&theme=dark&layout=compact"> |
+ | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaJaimes&langs_count=10&theme=dark&layout=compact"> |
  | ----------- |
 
 ### I hope you like my repositories! ❤️
