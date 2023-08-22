@@ -38,9 +38,9 @@
 
 ***
 
- | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwmejia&langs_count=10&theme=dark&layout=compact"> |
+ | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaJaimes&langs_count=10&theme=dark&layout=compact"> |
  | ----------- |
-
+<small><strong>❯❯ Some of my recent contributions ↓</strong></small>
 
 ### I hope you like my repositories! ❤️
 
