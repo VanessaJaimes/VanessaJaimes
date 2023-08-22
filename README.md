@@ -42,6 +42,6 @@
  | ----------- |
 
 ### I hope you like my repositories! ❤️
-<small><strong>❯❯ Some of my recent contributions ↓</strong></small>
 
 </div>
+<small><strong>❯❯ Some of my recent contributions ↓</strong></small>
